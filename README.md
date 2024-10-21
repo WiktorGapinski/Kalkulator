@@ -1,1 +1,1 @@
-# Kalkulator
+Wiktor Gapiński - praca kalkulator
